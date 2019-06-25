@@ -1,6 +1,57 @@
-.dv1{
+.dv1 {
     padding: 22px 0px;
-height: 44px;
-margin: 0px auto;
+    height: 44px;
+    width: 1190px;
+    margin: 0px auto;
+    border: 1px solid red;
+}
 
+.dv1 .dv1-1 {
+    margin-top: 8px;
+    height: 27px;
+    width: 190px;
+    border: 1px solid red;
+}
+
+
+.dv2 .tp {
+    width: 100%;
+    background-color: rgb(0, 163, 194);
+    border: 1px solid red;
+}
+
+.dv2 .tp1 {
+    display: block;
+    margin: 0px auto;
+}
+
+.mima {
+    width: 350px;
+    padding: 25px 26px 20px;
+    margin: auto;
+    border: 1px solid red;
+}
+
+.mima1 {
+    border: 1px solid red;
+    display: block;
+}
+
+.nei {
+    border: 1px solid red;
+}
+
+.dv2-1 {
+    margin-top: 15px;
+    padding-bottom: 0px;
+    height: 18px;
+    line-height: 18px;
+    font-size: 16px;
+    color: #3c3c3c;
+    font-weight: 700;
+}
+
+.b1-1 {
+    border: 1px solid red;
+    background: url("./image/img02.png")no-repeat left center;
 }
