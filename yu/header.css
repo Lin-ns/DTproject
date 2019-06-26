@@ -1,0 +1,41 @@
+.nav {
+    background-color: #a9180a;
+    background-repeat: repeat;
+    background-position: left;
+    border-bottom-color: #a9180a;
+    height: 32px;
+}
+
+.dv1 {
+    width: 1190px;
+    border: 1px solid rgb(57, 163, 47);
+    margin: 0px auto;
+}
+
+.a-info {
+    color: #fff;
+    height: 32px;
+    width: 100%;
+    position: relative;
+}
+
+.a-info {
+    height: 32px;
+    line-height: 32px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.a-login {
+    color: #fff;
+    padding-left: 20px;
+}
+
+.a-registe {
+    color: #fff;
+    padding-left: 20px;
+}
+
+.a-info a:hover {
+    color: #fff;
+}
