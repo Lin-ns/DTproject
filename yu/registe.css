@@ -83,5 +83,88 @@ a:hover {
     font-size: 16px;
     text-align: center;
     border-radius: 5px;
+}
 
+.head {
+    display: block;
+    height: 46px;
+    border-bottom: 2px solid #dedede;
+    position: relative;
+}
+
+.head ol {
+
+    width: 720px;
+    margin: 0px auto;
+}
+
+.head ol {
+    list-style: none;
+}
+
+.head ol li.active {
+    color: #3e3e3e;
+    border-bottom: 2px solid #ff4700;
+}
+
+.head ol .active {
+    border-bottom-color: #ff0036;
+
+}
+
+.head ol li {
+    float: left;
+    width: 150px;
+    padding-left: 30px;
+}
+
+.head ol li {
+    height: 46px;
+    line-height: 46px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.head ol .active i {
+    background: #ff0036;
+}
+
+.head ol li i {
+    display: inline-block;
+    margin-right: 5px;
+    width: 24px;
+    height: 24px;
+    line-height: 24px;
+    text-align: center;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+    border-radius: 100%;
+}
+
+.head ol li {
+    height: 46px;
+    line-height: 46px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #999;
+}
+
+.head ol li i {
+    background: #cccccc;
+}
+
+.zhong {
+    border-color: #f7931e;
+    background: #fff;
+    border: 2px solid #ffb300;
+    border-radius: 12px;
+}
+
+.zhong ul {
+    margin: 10px 0 0;
+    padding: 0;
+    list-style-type: none;
+    list-style: none;
 }
