@@ -6,70 +6,6 @@
     position: relative;
 }
 
-.wai {
-    display: block;
-    top: 118px;
-    left: 133px;
-}
-
-.wai {
-    width: 680px;
-    margin: 0px auto;
-    padding: 20px;
-    color: #3e3e3e;
-    border: 2px solid #dedede;
-    border-top: 2px solid #ff4a00;
-    position: absolute;
-}
-
-.nei {
-    display: block;
-}
-
-.nei1 {
-    font-size: 14px;
-    display: block;
-    color: #3e3e3e;
-}
-
-.nei2 {
-    display: block;
-    color: #3e3e3e;
-}
-
-.nei .im1 {
-    display: inline-block;
-    width: 24px;
-    height: 24px;
-    font-size: 24px;
-    text-align: center;
-    line-height: 24px;
-    text-decoration: none;
-    position: absolute;
-    top: 15px;
-    left: 670px;
-}
-
-.nei2 p {
-    margin-top: 8px;
-    margin-left: 5px;
-}
-
-.nei strong {
-    color: #000;
-    font-weight: 700px;
-}
-
-.nei2 p a {
-    font-weight: 700;
-    font-size: 15px;
-    color: #ff0036;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
 .btn1 {
     background: #ff0036;
     color: #fff;
@@ -259,4 +195,31 @@ img {
 .di a:hover {
     color: #fff;
     text-decoration: none;
+}
+
+.content {
+    border: 1px solid red;
+    padding: 50px;
+    display: block;
+    float: left;
+}
+
+.form-main {
+    border: 1px solid red;
+    margin: 0px auto;
+    font-size: 14px;
+}
+
+.form1 {
+    padding: 10px;
+}
+
+.form-1a {
+    padding: 10px 0px 10px 260px;
+    line-height: 36px;
+}
+
+.form-1a1 {
+    display: inline;
+
 }
